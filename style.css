@@ -1,6 +1,6 @@
 /*  #6 */
 /* Start with light mode styles */
-body {
+button {
   background-color: white;
   color: black;
   font-family: Arial, sans-serif;
